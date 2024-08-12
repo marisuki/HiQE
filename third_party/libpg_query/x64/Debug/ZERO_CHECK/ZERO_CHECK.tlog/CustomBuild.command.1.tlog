@@ -1,0 +1,10 @@
+^E:\HIQE\THIRD_PARTY\LIBPG_QUERY\CMAKEFILES\F28474F6281811E6B4BEAC8466A74737\GENERATE.STAMP.RULE
+setlocal
+E:\cmake\bin\cmake.exe -SE:/HiQE/third_party/libpg_query -BE:/HiQE/third_party/libpg_query --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/HiQE/third_party/libpg_query/pg_query.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\postgres_parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\pg_functions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_parser_parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_parser_gram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_nodes_list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_parser_scansup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_nodes_makefuncs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_nodes_value.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_backend_parser_scan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\HiQE\third_party\libpg_query\src_common_keywords.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\HiQE\third_party\libpg_query\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DE06A856-6E75-3A81-9FA8-2671A09A2FAE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

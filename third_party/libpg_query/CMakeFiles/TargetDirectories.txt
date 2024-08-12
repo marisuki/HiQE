@@ -1,0 +1,4 @@
+E:/HiQE/third_party/libpg_query/CMakeFiles/pg_query.dir
+E:/HiQE/third_party/libpg_query/CMakeFiles/INSTALL.dir
+E:/HiQE/third_party/libpg_query/CMakeFiles/ALL_BUILD.dir
+E:/HiQE/third_party/libpg_query/CMakeFiles/ZERO_CHECK.dir
